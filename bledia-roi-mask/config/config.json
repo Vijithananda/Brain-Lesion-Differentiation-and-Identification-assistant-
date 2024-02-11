@@ -1,0 +1,9 @@
+{
+    "machines": {
+        "simens":{
+            "b0":"ep2d_diff_3scan_trace_p2",
+            "b1000": "ep2d_diff_3scan_trace_p2",
+            "adc": "ep2d_diff_3scan_trace_p2_ADC"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+
+pydicom==1.4.2
+numpy===1.16.6
+matplotlib==3.2.1
+Pillow==5.1.0
+opencv-python==4.2.0.34
